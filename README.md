@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Edu!</h1>
+<h2 align="center">
+   I ❤ Open Source.
+</h2>
 <br>
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
@@ -32,8 +35,4 @@
    <i>Dont Waste Time get back to work.</i>
    <br>
 <br>
-
-<h2 align="center">
-   I ❤ Open Source.
-</h2>
 <br>
