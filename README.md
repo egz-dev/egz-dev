@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Edu!</h1>
 <br>
-
-<p>
-   <a href="https://github.com/egz-dev?tab=repositories">
-   <img src="https://github-readme-stats.vercel.app/api?username=egz-dev&show_icons=true" width="400" height="120">
-   </a>
-    <a href="https://github.com/=GamerRukky/musicbot">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=egz-dev&repo=musicbot"  height="120">
-   </a>
-   
-</p>
-
-
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
 - 🎓 &nbsp; Student of Universidad Oberta de Catalunya (UOC)
@@ -32,8 +20,6 @@
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 </p>
-<br>
-<br>
 
 <h2 align="center">
    I ❤ Open Source.
