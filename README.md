@@ -3,10 +3,10 @@
 
 <p>
    <a href="https://github.com/egz-dev?tab=repositories">
-   <img src="https://github-readme-stats.vercel.app/api?username=GamerRukky&show_icons=true" width="400" height="120">
+   <img src="https://github-readme-stats.vercel.app/api?username=egz-dev&show_icons=true" width="400" height="120">
    </a>
     <a href="https://github.com/=GamerRukky/musicbot">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GamerRukky&repo=musicbot"  height="120">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=egz-dev&repo=musicbot"  height="120">
    </a>
    
 </p>
